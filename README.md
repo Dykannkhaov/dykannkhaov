@@ -3,9 +3,8 @@
 <p>I'm a Front-End Developer.</p>
 <div>
   <img align="center" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="center" alt="Next" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"/>
-    <img align="center" alt="Typescript" width="33px" src="https://miro.medium.com/max/1400/1*TpbxEQy4ckB-g31PwUQPlg.png"/>
-  
+      <img align="center" alt="Typescript" width="33px" src="https://miro.medium.com/max/1400/1*TpbxEQy4ckB-g31PwUQPlg.png"/>
+  <img align="center" alt="Next" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"/>  
   <img align="center" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="center" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img align="center" alt="Figma" width="35px" src="https://user-images.githubusercontent.com/61904483/104744002-a6a69c80-574c-11eb-93b3-5d43a9699374.png"/>
